@@ -11,3 +11,12 @@ GTR[[:space:]]and[[:space:]]STR/** filter=lfs diff=lfs merge=lfs -text
 LectureNotes/** filter=lfs diff=lfs merge=lfs -text
 Math[[:space:]]methods/** filter=lfs diff=lfs merge=lfs -text
 Miscellaneous/** filter=lfs diff=lfs merge=lfs -text
+programming/* filter=lfs diff=lfs merge=lfs -text
+Schaum[[:space:]]books/* filter=lfs diff=lfs merge=lfs -text
+Solid[[:space:]]state[[:space:]]physics/* filter=lfs diff=lfs merge=lfs -text
+Thermo[[:space:]][[:space:]]and[[:space:]]Stat/* filter=lfs diff=lfs merge=lfs -text
+Y_K_LIM(problems)/** filter=lfs diff=lfs merge=lfs -text
+Particle[[:space:]]physics/* filter=lfs diff=lfs merge=lfs -text
+Physical[[:space:]]Sc.[[:space:]]and[[:space:]]Problems/* filter=lfs diff=lfs merge=lfs -text
+Quantum[[:space:]]Field[[:space:]]Theory/** filter=lfs diff=lfs merge=lfs -text
+Quantum[[:space:]]mechanics/* filter=lfs diff=lfs merge=lfs -text
