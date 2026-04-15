@@ -6,3 +6,8 @@ Electrodynamics/** filter=lfs diff=lfs merge=lfs -text
 Electronics/** filter=lfs diff=lfs merge=lfs -text
 Feynmann[[:space:]]lectures/** filter=lfs diff=lfs merge=lfs -text
 General[[:space:]]aptitiude/** filter=lfs diff=lfs merge=lfs -text
+Nuclear[[:space:]]Physics/** filter=lfs diff=lfs merge=lfs -text
+GTR[[:space:]]and[[:space:]]STR/** filter=lfs diff=lfs merge=lfs -text
+LectureNotes/** filter=lfs diff=lfs merge=lfs -text
+Math[[:space:]]methods/** filter=lfs diff=lfs merge=lfs -text
+Miscellaneous/** filter=lfs diff=lfs merge=lfs -text
