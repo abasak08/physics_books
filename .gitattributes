@@ -3,3 +3,4 @@ advanced_QM/** filter=lfs diff=lfs merge=lfs -text
 Atomic_molecular/** filter=lfs diff=lfs merge=lfs -text
 Classical[[:space:]]mechanics/** filter=lfs diff=lfs merge=lfs -text
 Electrodynamics/** filter=lfs diff=lfs merge=lfs -text
+Electronics/** filter=lfs diff=lfs merge=lfs -text
