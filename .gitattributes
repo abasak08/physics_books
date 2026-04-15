@@ -5,3 +5,4 @@ Classical[[:space:]]mechanics/** filter=lfs diff=lfs merge=lfs -text
 Electrodynamics/** filter=lfs diff=lfs merge=lfs -text
 Electronics/** filter=lfs diff=lfs merge=lfs -text
 Feynmann[[:space:]]lectures/** filter=lfs diff=lfs merge=lfs -text
+General[[:space:]]aptitiude/** filter=lfs diff=lfs merge=lfs -text
