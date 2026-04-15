@@ -20,3 +20,4 @@ Particle[[:space:]]physics/* filter=lfs diff=lfs merge=lfs -text
 Physical[[:space:]]Sc.[[:space:]]and[[:space:]]Problems/* filter=lfs diff=lfs merge=lfs -text
 Quantum[[:space:]]Field[[:space:]]Theory/** filter=lfs diff=lfs merge=lfs -text
 Quantum[[:space:]]mechanics/* filter=lfs diff=lfs merge=lfs -text
+Schaum[[:space:]]books/** filter=lfs diff=lfs merge=lfs -text
