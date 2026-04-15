@@ -1,0 +1,2 @@
+Astrophysics/** filter=lfs diff=lfs merge=lfs -text
+advanced_QM/** filter=lfs diff=lfs merge=lfs -text
