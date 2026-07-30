@@ -2,6 +2,10 @@
 
 # Git clone and Enjoy! $:)$
 
+## About this repositary
+
+This contains serevral books and lecture notes (lecture notes are mostly related to high energy physics).
+
 ## For those who are new to Git
 
 ### Git Installation:
