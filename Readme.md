@@ -5,22 +5,22 @@
 ## For those who are new to Git
 
 ### Git Installation:
-  *  linux users to install Git use 
-    ```
-    bash 
-    sudo apt install git
-    ```
-  * For winodows users you can install Git using winget
-  ```
-  Command Prompt
-  winget install --id Git.Git -e --Source Winget
+*  linux users to install Git use
+```
+bash
+sudo apt install git
+```
+* For winodows users you can install Git using winget
+```
+Command Prompt
+winget install --id Git.Git -e --Source Winget
   ```
 ### Cloning Git repositary:
-  * For linux users
-    ```
-    bash
-    git clone git@github.com:abasak08/physics_books.git
-    ```
+* For linux users
+  ```
+  bash
+  git clone git@github.com:abasak08/physics_books.git
+  ```
 * For Windows users
     ```
     Command Prompt
