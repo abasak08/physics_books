@@ -4,7 +4,7 @@
 
 ## For those who are new to Git
 
-* Git Installation:
+### Git Installation:
   *  linux users to install Git use 
     ```
     bash 
@@ -15,7 +15,7 @@
   Command Prompt
   winget install --id Git.Git -e --Source Winget
   ```
-* To clone:
+### Cloning Git repositary:
   * For linux users
     ```
     bash
